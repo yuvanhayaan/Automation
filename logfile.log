@@ -1,0 +1,52 @@
+2022-10-14 14:31:40,830 INFO  [Log] application opened 
+2022-10-14 14:31:42,469 INFO  [Log] logincompleted 
+2022-10-14 14:31:42,805 INFO  [Log] logout completed 
+2022-10-14 14:32:53,122 INFO  [Log] application closed 
+2022-10-14 14:32:57,819 INFO  [Log] application opened 
+2022-10-14 14:32:59,406 INFO  [Log] logincompleted 
+2022-10-14 14:32:59,441 INFO  [Log] enter frame 
+2022-10-14 14:33:01,612 INFO  [Log] addemployee 
+2022-10-14 14:33:01,625 INFO  [Log] frame exited in this page 
+2022-10-14 14:33:01,843 INFO  [Log] logout completed 
+2022-10-14 17:29:05,013 INFO  [Log] application opened 
+2022-10-14 17:29:05,975 INFO  [Log] logincompleted 
+2022-10-14 17:29:07,116 INFO  [Log] logout completed 
+2022-10-14 17:29:11,429 INFO  [Log] application closed 
+2022-10-14 17:29:29,072 INFO  [Log] application opened 
+2022-10-14 17:29:34,451 INFO  [Log] logincompleted 
+2022-10-14 17:38:07,313 INFO  [Log] application opened 
+2022-10-14 17:38:08,308 INFO  [Log] logincompleted 
+2022-10-14 17:38:08,532 INFO  [Log] logout completed 
+2022-10-14 17:38:10,282 INFO  [Log] application closed 
+2022-10-14 17:38:14,916 INFO  [Log] application opened 
+2022-10-14 17:38:16,606 INFO  [Log] logincompleted 
+2022-10-14 17:38:16,634 INFO  [Log] enter frame 
+2022-10-14 17:38:24,496 INFO  [Log] addemployee 
+2022-10-14 17:38:24,502 INFO  [Log] frame exited in this page 
+2022-10-14 17:38:24,756 INFO  [Log] logout completed 
+2022-10-14 17:38:27,038 INFO  [Log] application closed 
+2022-10-14 17:38:31,572 INFO  [Log] application opened 
+2022-10-14 17:38:33,542 INFO  [Log] logincompleted 
+2022-10-14 17:38:33,574 INFO  [Log] enter frame 
+2022-10-14 17:38:40,387 INFO  [Log] addemployee 
+2022-10-14 17:38:46,606 INFO  [Log] edit exiting employee 
+2022-10-14 17:38:46,613 INFO  [Log] frame exited in this page 
+2022-10-14 17:38:47,959 INFO  [Log] application closed 
+2022-10-17 11:38:25,614 INFO  [Log] application opened 
+2022-10-17 11:38:26,380 INFO  [Log] logincompleted 
+2022-10-17 11:38:26,632 INFO  [Log] logout completed 
+2022-10-17 11:38:31,457 INFO  [Log] application closed 
+2022-10-17 11:38:37,239 INFO  [Log] application opened 
+2022-10-17 11:38:37,932 INFO  [Log] logincompleted 
+2022-10-17 11:38:37,968 INFO  [Log] enter frame 
+2022-10-17 11:38:40,929 INFO  [Log] addemployee 
+2022-10-17 11:38:40,938 INFO  [Log] frame exited in this page 
+2022-10-17 11:38:41,199 INFO  [Log] logout completed 
+2022-10-17 11:38:43,159 INFO  [Log] application closed 
+2022-10-17 11:38:52,140 INFO  [Log] application opened 
+2022-10-17 11:38:53,077 INFO  [Log] logincompleted 
+2022-10-17 11:38:53,118 INFO  [Log] enter frame 
+2022-10-17 11:38:55,152 INFO  [Log] addemployee 
+2022-10-17 11:39:01,645 INFO  [Log] edit exiting employee 
+2022-10-17 11:39:01,652 INFO  [Log] frame exited in this page 
+2022-10-17 11:39:03,444 INFO  [Log] application closed 
